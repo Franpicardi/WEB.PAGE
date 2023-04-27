@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GRAND CAFE CENTRAL CLUB</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="305574224_390587149924128_5807205013373887891_n.png" width="550px;
+        ">
+    
+        <h2>Preparate para comer las delicias mas ricas de la ciudad.</h2>
+        <nav>
+            <ul>
+                <li><a href="#quienes-somos">QUIENES SOMOS</a></li>
+                <li><a href="#MENU">MENU</a></li>
+                <li><a href="#COMO-VENIR">COMO VENIR</a></li>
+                <li><a href="#CONTACTO">CONTACTO</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    
+        
+    <img src="https://scontent.faep14-2.fna.fbcdn.net/v/t39.30808-6/339416214_914568449820695_6363821221260042231_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=QvpGDPDVaBoAX-Vwz2a&_nc_ht=scontent.faep14-2.fna&oh=00_AfDtN-JG3Vu3tuDSudEuVSZN_9HJkZoSzsqj854A-WjxAQ&oe=644D1BC8" style="display: block; width: 100%;">
+
+    <p style="font-size: 1.2em;">
+        Somos un grupo de amigos apasionados por la cultura de comer sano y riquisimo.
+        Sentimos que somos lo que comemos y venimos a traer delicias maravillosas para esta ciudad maravillosa
+    </p>
+    
+            <h1>NUEVAS PROMOS:</h1>
+            <div class="container">
+                <img src="file:///C:/Users/User/OneDrive/Escritorio/PAGINA%20WEB/335846047_1357971954983341_6434819787143766768_n.jpg">
+                <img src="https://scontent.faep14-2.fna.fbcdn.net/v/t39.30808-6/327205632_562928422560463_2577846930418303601_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0a-XzcnqLWMAX_Fjwrd&_nc_ht=scontent.faep14-2.fna&oh=00_AfC8jTwVOyD0QbeCrjmb5K4PuO0zYjLBLw0KgpdRACrfHg&oe=644F9042">
+                <img src="file:///C:/Users/User/OneDrive/Escritorio/PAGINA%20WEB/338144895_1299823870960124_3263299793916328430_n.jpg">
+            </div>
+            
+            <footer>
+                <p>Promos validas hasta el 23/11/2023</p>
+            </footer>
+      
+        
+        <section>
+            <h1>SUBSCRIBITE A NUESTRO NEWSLETTER PARA NOVEDADES ACERCA DE LA CAFETERIA.</h1>
+        </section>
+    
+</body>
+</html>
